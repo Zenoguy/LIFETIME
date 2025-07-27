@@ -1,4 +1,4 @@
-#LIFETIME ASSETS FOLDER
+# LIFETIME ASSETS FOLDER
 
 contains the assets for LIFETIME wesbite 
 code repo fork : https://github.com/Zenoguy/LIFETIME-NEW/
